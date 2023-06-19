@@ -1,0 +1,39 @@
+Найди четыре опечатки в JSON (это массив из объектов):
+
+
+[
+   {
+      "uuid":"0b3ab872-b44b-5174-b6e6-c6297c350c71",
+      "type":"brand",
+      "slug":"фрутоняня",
+      "ordernum":1,
+      "label":""
+   },
+   {
+      "uuid":"016272aa-8b7d-4a59-85f6-a060f8d7e217",
+      "type":"retailer",
+      "slug":"доминос",
+      "ordernum":0,
+      "label":"Это реклама"
+   },
+   {
+      "uuid":94d97d7b-42c3-11e6-9419-52540010b608,
+      "type":"retailer",
+      "slug":"Billa",
+      "ordernum":1,
+      "label":"Билла"
+   }
+   {
+      "uuid":"a7723417-2b16-540f-95ad-a424ddc865c2",
+      "type":"brand",
+      "slug":"тест бренд поднятие ",
+      "ordernum":1,
+   },
+   {
+      "uuid":"243260b0-1b6c-53f1-9253-01bc1b3fe981",
+      "type":"brand",
+      "slug":"kinder"
+      "ordernum":1,
+      "label":""
+   }
+]
